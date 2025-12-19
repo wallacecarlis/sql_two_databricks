@@ -2,4 +2,5 @@
 
 Curso de SQL no Databricks
 
-* **Aula 1: Create Table, Drop, Insert Into, Describe, Order by, Where, In, Like** - 
+* **Aula 1: Data Format, CTE, Case When, Filter** -
+* **Aula 2: Data Format, CTE, Case When, Filter** - 
